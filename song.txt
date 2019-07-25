@@ -2,3 +2,6 @@ helo world
 my name nik
 i am tr
 my good
+
+from git
+to born 
