@@ -5,6 +5,3 @@ my good
 
 from git
 to born 
-
-some kombo
-kombobombo
